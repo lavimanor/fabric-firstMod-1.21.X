@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "firstmod",
+	"version": "${version}",
+	"name": "First Mod",
+	"description": "This is a test mod made by lavi",
+	"authors": [
+		"Lavi"
+	],
+	"contact": {
+		"homepage": "https://lavi.net",
+		"sources": "https://github.com/Lavis-Mods/fabric-firstMod-1.21.X"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/firstmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.lavi.firstmod.FirstMod"
+		],
+		"fabric-datagen": [
+			"net.lavi.firstmod.FirstModDataGenerator"
+		],
+		"client": [
+			"net.lavi.firstmod.FirstModClient"
+		]
+	},
+	"mixins": [
+		"firstmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.2",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
