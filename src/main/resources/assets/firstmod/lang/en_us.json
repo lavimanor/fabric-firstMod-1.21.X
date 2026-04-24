@@ -2,12 +2,15 @@
   "item.firstmod.pink_garnet": "Pink Garnet",
   "item.firstmod.raw_pink_garnet": "Raw Pink Garnet",
   "item.firstmod.chisel": "Chisel",
+  "item.firstmod.cauliflower": "Cauliflower",
 
   "block.firstmod.pink_garnet_block": "Block Of Pink Garnet",
   "block.firstmod.raw_pink_garnet_block": "Block Of Raw Pink Garnet",
 
   "block.firstmod.pink_garnet_ore": "Pink Garnet Ore",
   "block.firstmod.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore",
+
+  "block.firstmod.magic_block": "Magic Block",
 
 
   "itemgroup.tutorialmod.pink_garnet_items": "Pink Garnet Items",
