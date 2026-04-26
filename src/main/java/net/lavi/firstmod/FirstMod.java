@@ -2,6 +2,7 @@ package net.lavi.firstmod;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.fabricmc.fabric.api.registry.FuelRegistry;
 import net.lavi.firstmod.block.ModBlocks;
 import net.lavi.firstmod.item.ModItemGroups;
 import net.lavi.firstmod.item.ModItems;
@@ -18,5 +19,7 @@ public class FirstMod implements ModInitializer {
 
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+
+		FuelRegistry.INSTANCE.add(ModItems.STARLIGHT_ASHES, 600);
 	}
 }
