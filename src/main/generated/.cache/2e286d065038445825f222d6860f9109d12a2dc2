@@ -1,6 +1,6 @@
-// 1.21	2026-04-26T19:14:52.6771441	First Mod/Recipes
-d18701b362e23ee5eba468e8de285911021210e8 data\firstmod\recipe\pink_garnet_from_smelting_raw_pink_garnet.json
+// 1.21	2026-04-27T17:04:54.9705528	First Mod/Recipes
 8687814083296de0497c6c683ddbac4f9d0e1eca data\firstmod\recipe\pink_garnet_from_blasting_pink_garnet_deepslate_ore.json
+d18701b362e23ee5eba468e8de285911021210e8 data\firstmod\recipe\pink_garnet_from_smelting_raw_pink_garnet.json
 4fc89df45b078ef711ba4b299cf682a9354e14b6 data\firstmod\advancement\recipes\misc\raw_pink_garnet.json
 75b11cba4b1a6f0304969c9db4e47ebf59190733 data\firstmod\recipe\pink_garnet_block.json
 551988c2af2f17ca757f02028a2b85d77ee6b015 data\firstmod\advancement\recipes\misc\raw_pink_garnet_from_magic_block.json

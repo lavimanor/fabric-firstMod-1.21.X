@@ -1,3 +1,6 @@
-// 1.21	2026-04-26T19:14:52.6831413	First Mod/Tags for minecraft:block
+// 1.21	2026-04-27T17:04:54.985544	First Mod/Tags for minecraft:block
 03010f854077d2b50e813619292be8a70efa5b9a data\minecraft\tags\block\needs_iron_tool.json
+efbf43ccbcb05b01e2e01891987ba1315e21e2d8 data\minecraft\tags\block\fences.json
+da208e7fdf32d9a94652b98d02a097f8daa7f93a data\minecraft\tags\block\fence_gates.json
 958dbbef94dbd3b9a2ded53cbfb4e9a304b5a7a6 data\minecraft\tags\block\mineable\pickaxe.json
+b7b6da936dca4b6b0f70d710b1e6b42ba0cb970b data\minecraft\tags\block\walls.json
